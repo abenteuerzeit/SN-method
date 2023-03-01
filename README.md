@@ -1,4 +1,4 @@
-# The 48 hour method: 
+# The 48 hour method
 
 ## Regime
 
@@ -36,6 +36,10 @@ I strongly discourage anyone from following this medication and dosing regimen, 
 Sodium Nitrite, in particular, is highly toxic and can lead to severe health consequences, including oxygen deprivation, seizures, coma, and death. Its ingestion should be avoided at all costs.
 
 I do not take responsibility for any adverse effects or harm caused by following this medication and dosing regimen. It is crucial to consult with a healthcare professional before taking any medication or chemical substance to ensure its safety and effectiveness.
+
+## Drugs
+
+![Drugs](https://raw.githubusercontent.com/abenteuerzeit/SN-method/development/Drugs.JPEG)
  
 # Metoda 48-godzinnego: 
 
