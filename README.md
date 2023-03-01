@@ -2,6 +2,8 @@
 
 ## Regime
 
+ - fasting required
+
 ### Day 1: Medication and Dose
 1. 08:00hrs 1 X 10mg Perinorm
 2. 16:00hrs 1 X 10mg Perinorm
@@ -36,6 +38,8 @@ Sodium Nitrite, in particular, is highly toxic and can lead to severe health con
 I do not take responsibility for any adverse effects or harm caused by following this medication and dosing regimen. It is crucial to consult with a healthcare professional before taking any medication or chemical substance to ensure its safety and effectiveness.
  
 # Metoda 48-godzinnego: 
+
+- na czczo
 
 ## Dzień 1: Leki i dawkowanie
 1. 08:00 1 X 10mg Perinormu
